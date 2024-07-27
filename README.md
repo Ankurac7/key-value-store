@@ -56,3 +56,8 @@ Implement handlers for commands like GET, SET, DELETE, FLUSH, MGET, and MSET:
 
 - **Protocol Handling**: Implements a simple communication protocol using JSON for data exchange between the client and server.
 
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided that you include the original copyright notice and the license in any significant portions of the software.
+
+For more details, see the [LICENSE](https://github.com/Ankurac7/key-value-store/blob/master/LICENSE) file in this repository.
